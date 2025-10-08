@@ -1,0 +1,2 @@
+incident_name,clean_incident_name,address,label,year,month,amount_stolen,source,description
+Penpie_2024,Penpie_2024,0x5c4d3e2f1a9c8b7e6d5a4f3e2c1b0d9e8a7c6b5f,Penpie Reentrancy Attack Exploiter,2024,9.0,27.0,Post-2021 Research,Penpie Reentrancy Attack

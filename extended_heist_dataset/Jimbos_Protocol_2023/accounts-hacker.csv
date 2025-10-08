@@ -1,0 +1,2 @@
+incident_name,clean_incident_name,address,label,year,month,amount_stolen,source,description
+Jimbos_Protocol_2023,Jimbos_Protocol_2023,0x5d4b3a9e2f7c8d6e9a1c3f0b8e7d6a5c4e3f2d1b,Jimbos Protocol Liquidity Attack Exploiter,2023,5.0,7.5,Post-2021 Research,Jimbos Protocol Liquidity Attack

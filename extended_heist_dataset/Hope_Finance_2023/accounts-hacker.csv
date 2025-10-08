@@ -1,0 +1,2 @@
+incident_name,clean_incident_name,address,label,year,month,amount_stolen,source,description
+Hope_Finance_2023,Hope_Finance_2023,0x8a5c6d9f1e2b3c4a5d7e8f9c0b1a2d3e4f5c6a7b,Hope Finance Reentrancy Attack Exploiter,2023,2.0,1.86,Post-2021 Research,Hope Finance Reentrancy Attack

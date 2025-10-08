@@ -1,0 +1,3 @@
+incident_name,clean_incident_name,address,label,year,month,amount_stolen,source,description
+Multichain_2023,Multichain_2023,0x48bead89e696ee93b04913cb0006f35adb844537,Multichain Bridge Anomaly Exploiter,2023,7.0,126.0,Post-2021 Research,Multichain Bridge Anomaly
+Multichain_2023,Multichain_2023,0x9fb9a33956351cf4fa040f65a13b835a3c8764e3,Multichain Bridge Anomaly Exploiter,2023,7.0,126.0,Post-2021 Research,Multichain Bridge Anomaly

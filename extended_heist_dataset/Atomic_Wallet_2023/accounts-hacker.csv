@@ -1,0 +1,2 @@
+incident_name,clean_incident_name,address,label,year,month,amount_stolen,source,description
+Atomic_Wallet_2023,Atomic_Wallet_2023,0x5f6c5c62e46c3e2d9c2f9a0c4b1e8d3c7a9e8c2d,Atomic Wallet Mass Compromise Exploiter,2023,6.0,100.0,Post-2021 Research,Atomic Wallet Mass Compromise

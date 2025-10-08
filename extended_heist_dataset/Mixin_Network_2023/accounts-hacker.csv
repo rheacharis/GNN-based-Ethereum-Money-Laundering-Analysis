@@ -1,0 +1,2 @@
+incident_name,clean_incident_name,address,label,year,month,amount_stolen,source,description
+Mixin_Network_2023,Mixin_Network_2023,0x3bb6713e01b27a759d1a6f907bcd97d2b1f0f209,Mixin Network Database Breach Exploiter,2023,9.0,200.0,Post-2021 Research,Mixin Network Database Breach

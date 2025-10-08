@@ -1,0 +1,2 @@
+incident_name,clean_incident_name,address,label,year,month,amount_stolen,source,description
+Meter_IO_2022,Meter_IO_2022,0x8d3e3a57c5f140b5f9b9a6ab8f0e3c7a2a5a9c8d,Meter.io Bridge Hack Exploiter,2022,2.0,4.4,Post-2021 Research,Meter.io Bridge Hack

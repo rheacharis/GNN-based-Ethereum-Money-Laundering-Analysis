@@ -1,0 +1,3 @@
+incident_name,clean_incident_name,address,label,year,month,amount_stolen,source,description
+Nomad_Bridge_2022,Nomad_Bridge_2022,0xa0c68c638235ee32657e8f720a23cec1bfc77c77,Nomad Bridge Exploit Exploiter,2022,8.0,190.0,Post-2021 Research,Nomad Bridge Exploit
+Nomad_Bridge_2022,Nomad_Bridge_2022,0x5d3a536e4d6dbd6114cc1ead35777bab948e3643,Nomad Bridge Exploit Exploiter,2022,8.0,190.0,Post-2021 Research,Nomad Bridge Exploit

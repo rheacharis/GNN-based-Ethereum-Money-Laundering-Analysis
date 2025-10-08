@@ -1,0 +1,2 @@
+incident_name,clean_incident_name,address,label,year,month,amount_stolen,source,description
+BonqDAO_2023,BonqDAO_2023,0x32a3e2c6b4d5a1c9e7f8b0a6c3d5e2f8a7c9b6d4,BonqDAO Oracle Manipulation Exploiter,2023,2.0,120.0,Post-2021 Research,BonqDAO Oracle Manipulation

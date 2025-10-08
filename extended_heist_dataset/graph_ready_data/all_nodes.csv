@@ -1,0 +1,171 @@
+address,incident_name,node_type,label,year,amount_stolen
+0x26a76f4fe7a21160274d060acb209f515f35429c,0xhabitat.eth_Multisig_Drainer,hacker,0xhabitat.eth Multisig Drainer,,
+0x56eb4a5f64fa21e13548b95109f42fa08a644628,AFKSystem,hacker,AFKSystem,,
+0x6e1218c55f1acb588fc5e55b721f1183d7d29d3d,ATO_Stolen_Funds,hacker,ATO Stolen Funds,,
+0x9f26ae5cd245bfeeb5926d61497550f79d9c6c1c,Akropolis_1,hacker,Akropolis Hacker 1,,
+0x905315602ed9a854e325f692ff82f58799beab57,Alpha_Homora_V2,hacker,Alpha Homora V2 Exploiter,,
+0x4d3c8a2b1e5f7c6d8e9f0a1c2b3d4e5f6a7c8b9d,Alphapo_2023,hacker,Alphapo Hot Wallet Breach Exploiter,2023.0,60.0
+0x872254d530ae8983628cb1eaafc51f78d78c86d9,AnubisDAO_Liquidity_Rug_1,hacker,AnubisDAO Liquidity Rug 1,,
+0x9fc53c75046900d1f58209f50f534852ae9f912a,AnubisDAO_Liquidity_Rug_2,hacker,AnubisDAO Liquidity Rug 2,,
+0xb1302743acf31f567e9020810523f5030942e211,AnubisDAO_Liquidity_Rug_3,hacker,AnubisDAO Liquidity Rug 3,,
+0x0ae1554860e51844b61ae20823ef1268c3949f7c,AnySwap_v3,hacker,AnySwap v3 Exploiter,,
+0xe47e8cd58c8e95f765e642d7dcb898f622cefa83,Arthur0x,hacker,Arthur0x Wallet Hacker,,
+0x2c6900b24221de2b4a45c8c89482fff96ffb7e55,AscendEX,hacker,AscendEX Hacker,,
+0x73326b6764187b7176ed3c00109ddc1e6264eb8b,AscendEX_2,hacker,AscendEX Hacker 2,,
+0x5f6c5c62e46c3e2d9c2f9a0c4b1e8d3c7a9e8c2d,Atomic_Wallet_2023,hacker,Atomic Wallet Mass Compromise Exploiter,2023.0,100.0
+0xf80f6fa4ccb6550c9dc58d58d51fb0928f9b323c,BELLE_Honeypot_Rug_Pull,hacker,BELLE Honeypot Rug Pull,,
+0x489a8756c18c0b8b24ec2a2b9ff3d4d447f79bec,BNB_Bridge_2022,hacker,BNB Chain Bridge Exploit Exploiter,2022.0,570.0
+0x1fcdb04d0c5364fbd92c73ca8af9baa72c269107,BadgerDAO,hacker,BadgerDAO Exploiter,,
+0xbceaa0040764009fdcff407e82ad1f06465fd2c4,Bancor,hacker,Bancor Hacker,,
+0x1c5dcdd006ea78a7e4783f9e6021c32935a10fb4,Beanstalk_2022,hacker,Beanstalk Governance Attack Exploiter,2022.0,182.0
+0xd23cfffa066f81c7640e3f0dc8bb2958f7686d1f,Bent_Finance,hacker,Bent Finance Exploiter,,
+0x9e966a54082427d7ac56aeaee4baae7d11a6e468,Bent_Finance_2,hacker,Bent Finance Exploiter 2,,
+0x71b1ee098dbe801ce7d42a4bdb472ed164f1c21a,Bent_Finance_3,hacker,Bent Finance Exploiter 3,,
+0x9e8d7c6b5a4f3e2d1c0b9a8f7e6d5c4b3a2e1f0d,BingX_2024,hacker,BingX Hot Wallet Compromise Exploiter,2024.0,52.0
+0x39fb0dcd13945b835d47410ae0de7181d3edf270,Bitmart,hacker,Bitmart Hacker,,
+0x4bb7d80282f5e0616705d7f832acfc59f89f7091,Bitmart_2,hacker,Bitmart Hacker 2,,
+0x68b22215ff74e3606bd5e6c1de8c79e67c4a4b91,Bitmart_December_2022,hacker,Bitmart Hot Wallet Breach Exploiter,2022.0,196.0
+0x0e57edba0fccb1e388926193c873120cab961fee,Bitpoint_1,hacker,Bitpoint Hacker 1,,
+0x1503b6cb665fea9a128a56244df392e950593486,Bitpoint_2,hacker,Bitpoint Hacker 2,,
+0xc433d50dd0614c81ee314289ec82aa63710d25e8,Bondly_Finance,hacker,Bondly Finance Exploiter,,
+0x32a3e2c6b4d5a1c9e7f8b0a6c3d5e2f8a7c9b6d4,BonqDAO_2023,hacker,BonqDAO Oracle Manipulation Exploiter,2023.0,120.0
+0x6b0b61323f6d77ef8a1a35d11fa877631d8f67bb,Brinc_Finance,hacker,Brinc Finance Exploiter,,
+0x3c9f8e5d7b6a4c3d2e1f0c9d8e7b6a5c4d3e2f1a,BtcTurk_2024,hacker,BtcTurk Hot Wallet Breach Exploiter,2024.0,55.0
+0xa0acc61547f6bd066f7c9663c17a312b6ad7e187,Bunny_Finance_1,hacker,Bunny Finance Exploiter 1,,
+0x86766247ba3405c5f15f06b895294200809e9cfb,CashioApp,hacker,CashioApp Exploiter,,
+0x71e9b2010cec7ff0017e3cac4e7e598223abf040,ChainPort,hacker,ChainPort Exploiter,,
+0x4d9935687badb3bb766a412e6c9f16a4e8c7843a,ChainPort_1,hacker,ChainPort Exploiter 1,,
+0x1bcf9edb72f7650dfcdc59ae3b8a73d35a2f2902,ChainPort_2,hacker,ChainPort Exploiter 2,,
+0x5c1fe6f340dd36b5daf88c2cf390bf715d2af139,ChainPort_3,hacker,ChainPort Exploiter 3,,
+0x289e90e739a797ca53319e7a225a15f587e16d4f,ChainPort_4,hacker,ChainPort Exploiter 4,,
+0xf6884686a999f5ae6c1af03db92bab9c6d7dc8de,Coinrail,hacker,Coinrail Hacker,,
+0x24354d31bc9d90f62fe5f2454709c32049cf866b,Cream_Finance_Flash_Loan,hacker,Cream Finance Flash Loan Exploiter,,
+0x921760e71fb58dcc8de902ce81453e9e3d7fe253,Cream_Finance_Flash_Loan_2,hacker,Cream Finance Flash Loan Exploiter 2,,
+0x70747df6ac244979a2ae9ca1e1a82899d02bbea4,Cream_Finance_Flash_Loan_3,hacker,Cream Finance Flash Loan Exploiter 3,,
+0xce1f4b4f17224ec6df16eeb1e3e5321c54ff6ede,Cream_Finance_Flashloan,hacker,Cream Finance Flashloan Attacker,,
+0xc8b759860149542a98a3eb57c14aadf59d6d89b9,Cryptopia_1,hacker,Cryptopia Hacker 1,,
+0xaa923cd02364bb8a4c3d6f894178d2e12231655c,Cryptopia_2,hacker,Cryptopia Hacker 2,,
+0x9007a0421145b06a0345d55a8c0f0327f62a2224,Cryptopia_3,hacker,Cryptopia Hacker 3,,
+0x6ec21d1868743a44318c3c259a6d4953f9978538,Curve_Finance_2023,hacker,Curve Finance Vyper Exploit Exploiter,2023.0,73.0
+0xa85233c63b9ee964add6f2cffe00fd84eb32338f,Curve_Finance_2023,hacker,Curve Finance Vyper Exploit Exploiter,2023.0,73.0
+0x2708cace7b42302af26f1ab896111d87faeff92f,DAOMaker,hacker,DAOMaker Exploiter,,
+0xd8428836ed2a36bd67cd5b157b50813b30208f50,DAOMaker_1,hacker,DAOMaker Exploiter 1,,
+0xef9427bf15783fb8e6885f9b5f5da1fba66ef931,DAOMaker_2,hacker,DAOMaker Exploiter 2,,
+0x118203b0f2a3ef9e749d871c8fef5e5e55ef5c91,DEGO_and_Cocos,hacker,DEGO and Cocos Exploiter,,
+0x4c5a9d8e7b6f3c2d1a9e8f0c7b6d5e4a3c2f1e9d,DMM_Bitcoin_2024,hacker,DMM Bitcoin Exchange Hack Exploiter,2024.0,305.0
+0x7c8d9e3f2a1b6c5e4d8a9f0c7e6b5d4a3c2e1f9a,DeFiGeek_2023,hacker,DeFiGeek Community Pool Exploit Exploiter,2023.0,2.3
+0x8e5e35e5a9ef8e4cc83e2d7e6b6d7e5c6a9c6d7f,Deus_Finance_2022,hacker,Deus Finance Flash Loan Attack Exploiter,2022.0,3.0
+0x5f2e1c9d8a7b6c3e4d5a9f0c8e7b6d5a4c3e2f1a,Dexible_2023,hacker,Dexible Self-Destruct Exploit Exploiter,2023.0,2.0
+0xa7f72bf63edeca25636f0b13ec5135296ca2ebb2,DragonEx,hacker,DragonEx Hacker,,
+0x83a2eb63b6cc296529468afa85dbde4a469d8b37,Easyfi,hacker,Easyfi Hacker,,
+0x9010a15184da16e3a7c5b4aa50094dfe3bb36989,Etherwrapped_Rug,hacker,Etherwrapped Rug Contract,,
+0x42960c7f91e7aca98f374296df900cb4d6b09601,Etherwrapped_Rug_Pull,hacker,Etherwrapped Rug Pull,,
+0xb66cd966670d962c227b3eaba30a872dbfb995db,Euler_Finance_2023,hacker,Euler Finance Flash Loan Attack Exploiter,2023.0,197.0
+0x5f259d0b76665c337c6104145894f4d1d2758b8c,Euler_Finance_2023,hacker,Euler Finance Flash Loan Attack Exploiter,2023.0,197.0
+0x59abf3837fa962d6853b4cc0a19513aa031fd32b,FTX_Hack_2022,hacker,FTX Exchange Hack During Bankruptcy Exploiter,2022.0,477.0
+0x0bb1810061c2f5b2088054ee184e6c79e1591101,FTX_Hack_2022,hacker,FTX Exchange Hack During Bankruptcy Exploiter,2022.0,477.0
+0xa6964e26b6e49510934164ceab2dd73fd397509f,Fake_5041,hacker,Fake_Phishing5041,,
+0x6ca33486eed915816560630b883a047c4e2b92df,Fake__Metadium_Presale,hacker,Fake: Metadium Presale,,
+0x5ebc7d1ff1687a75f76c3edfabcde89d1c09cd5f,FinNexus,hacker,FinNexus Hacker,,
+0x6d5c4e3b2a1f0c9e8d7b6a5c4f3e2d1c0b9a8f7e,FixedFloat_2024,hacker,FixedFloat Exchange Hack Exploiter,2024.0,26.1
+0xa2ce300cc17601fc660bac4eeb79bdd9ae61a0e5,Float_Protocol_Fuse,hacker,Float Protocol Fuse Exploiter,,
+0x9d9c3695c54601929cd72d34a52935268eb9b00b,Force_Vault_2,hacker,Force Vault Hacker 2,,
+0xe29a07002c7be4299b51a2892799cc4a372994dd,Force_Vault_3,hacker,Force Vault Hacker 3,,
+0xb624e2b10b84a41687caec94bdd484e48d76b212,Furucombo,hacker,Furucombo Hacker,,
+0xfd947851baa8f701871a8bb57cb82cdd64325aa8,Furucombo_2,hacker,Furucombo Hacker 2,,
+0xd4914762f9bd566bd0882b71af5439c0476d2ff6,Gatecoin_1,hacker,Gatecoin Hacker 1,,
+0x1342a001544b8b7ae4a5d374e33114c66d78bd5f,Gatecoin_2,hacker,Gatecoin Hacker 2,,
+0xc062dceed93087c9112ff7b02d53e928e49cec09,Gatecoin_3,hacker,Gatecoin Hacker 3,,
+0x04786aada9deea2150deab7b3b8911c309f5ed90,Gatecoin_4,hacker,Gatecoin Hacker 4,,
+0x0d043128146654c7683fbf30ac98d7b2285ded00,Harmony_2022,hacker,Harmony Horizon Bridge Hack Exploiter,2022.0,100.0
+0x9e91ae672e7f7330fc6b9bab9c259bd94cd08715,Harmony_2022,hacker,Harmony Horizon Bridge Hack Exploiter,2022.0,100.0
+0xf224ab004461540778a914ea397c589b677e27bb,Harvest.Finance__1,hacker,Harvest.Finance: Hacker 1,,
+0xdfd7aa554653ca236c197ad746edc2954ca172df,Heco_Bridge_2023,hacker,Heco Bridge Exploit Exploiter,2023.0,86.6
+0x8a5c6d9f1e2b3c4a5d7e8f9c0b1a2d3e4f5c6a7b,Hope_Finance_2023,hacker,Hope Finance Reentrancy Attack Exploiter,2023.0,1.86
+0x9e8f7c6d5a4b3c2e1f0d9c8e7b6a5d4c3e2f1a8c,Hundred_Finance_2023,hacker,Hundred Finance Price Manipulation Exploiter,2023.0,7.4
+0x8e0d334a77614a7ce089c9246e9b1d7c7172ef02,Impossible_Finance,hacker,Impossible Finance Exploiter,,
+0xba5ed1488be60ba2facc6b66c6d6f0befba22ebe,Indexed_Finance,hacker,Indexed Finance Exploiter,,
+0x5d4b3a9e2f7c8d6e9a1c3f0b8e7d6a5c4e3f2d1b,Jimbos_Protocol_2023,hacker,Jimbos Protocol Liquidity Attack Exploiter,2023.0,7.5
+0xeb31973e0febf3e3d7058234a5ebbae1ab4b8c23,Kucoin,hacker,Kucoin Hacker,,
+0x165402279f2c081c54b00f0e08812f3fd4560a05,LCX,hacker,LCX Hacker,,
+0xa9bf70a420d364e923c74448d9d817d3f2a77822,Lendf.Me_1,hacker,Lendf.Me Hacker 1,,
+0x5578840aae68682a9779623fa9e8714802b59946,Liquid_Exchange_1,hacker,Liquid Exchange Hacker 1,,
+0xefb33ccafc98d5fdb27a6f5ff17350ca76bf3b53,Liquid_Exchange_2,hacker,Liquid Exchange Hacker 2,,
+0x11112f684cb88d43ca0e132e585e882606063fbe,Malicious_Actor_(Exploit_Abuser),hacker,Malicious Actor (Exploit Abuser),,
+0x894d11b8345712107da7baff191b474c27133289,Malicious_Actor_(Exploit_Abuser)_2,hacker,Malicious Actor (Exploit Abuser) 2,,
+0x9c4c63a896f815acf14f73891a443fb84d0b54ef,MetaDAO_Rug,hacker,MetaDAO Rug,,
+0x8d3e3a57c5f140b5f9b9a6ab8f0e3c7a2a5a9c8d,Meter_IO_2022,hacker,Meter.io Bridge Hack Exploiter,2022.0,4.4
+0x3ddd8b6d092df917473680d6c41f80f708c45395,Miso_Front_End,hacker,Miso Front End Exploiter,,
+0x3bb6713e01b27a759d1a6f907bcd97d2b1f0f209,Mixin_Network_2023,hacker,Mixin Network Database Breach Exploiter,2023.0,200.0
+0x45dac6c8776e5eb1548d3cdcf0c5f6959e410c3a,MommyMilkers_Honeypot_Token,hacker,MommyMilkers Honeypot Token,,
+0xecbe385f78041895c311070f344b55bfaa953258,MonoX_Finance,hacker,MonoX Finance Exploiter,,
+0x8f6a86f3ab015f4d03ddb13abb02710e6d7ab31b,MonoX_Finance_2,hacker,MonoX Finance Exploiter 2,,
+0x48bead89e696ee93b04913cb0006f35adb844537,Multichain_2023,hacker,Multichain Bridge Anomaly Exploiter,2023.0,126.0
+0x9fb9a33956351cf4fa040f65a13b835a3c8764e3,Multichain_2023,hacker,Multichain Bridge Anomaly Exploiter,2023.0,126.0
+0xb3764761e297d6f121e79c32a65829cd1ddb4d32,Multisig_Exploit,hacker,Multisig Exploit Hacker,,
+0x6765e168a17b1d3c52e16cdc4f78da1e1b9b48c1,Munchables_2024,hacker,Munchables Private Key Leak Exploiter,2024.0,62.0
+0x09923e35f19687a524bbca7d42b92b6748534f25,Nexus_Mutual_1,hacker,Nexus Mutual Hacker 1,,
+0xa0c68c638235ee32657e8f720a23cec1bfc77c77,Nomad_Bridge_2022,hacker,Nomad Bridge Exploit Exploiter,2022.0,190.0
+0x5d3a536e4d6dbd6114cc1ead35777bab948e3643,Nomad_Bridge_2022,hacker,Nomad Bridge Exploit Exploiter,2022.0,190.0
+0x5676e585bf16387bc159fd4f82416434cda5f1a3,NowSwap,hacker,NowSwap Exploiter,,
+0x731821d13414487ea46f1b485cfb267019917689,Pancake_Hunny,hacker,Pancake Hunny Exploiter,,
+0x5c4d3e2f1a9c8b7e6d5a4f3e2c1b0d9e8a7c6b5f,Penpie_2024,hacker,Penpie Reentrancy Attack Exploiter,2024.0,27.0
+0x95c3e74e1f4c7a8a4a9f6c8e5b3d2e7c6a9f8e5d,Platypus_Finance_2023,hacker,Platypus Finance Flash Loan Attack Exploiter,2023.0,8.5
+0x2f3a8f2c9b59be4a3e6c4b5f50a7c8b6f8e3a9d4,PlayDapp_2024,hacker,PlayDapp Private Key Compromise Exploiter,2024.0,290.0
+0xf4a2eff88a408ff4c4550148151c33c93442619e,Plus_Token_Ponzi_1,hacker,Plus Token Ponzi 1,,
+0x997114ca0830e9bee7443368fa27f4af2d4e55a6,Plus_Token_Ponzi_2,hacker,Plus Token Ponzi 2,,
+0xc5a7f62b5f4de3f7c8f8e1c9d9a8e7b6c5d4e3f2,Poloniex_2023,hacker,Poloniex Hot Wallet Compromise Exploiter,2023.0,126.0
+0xc8a65fadf0e0ddaf421f28feab69bf6e2e589963,PolyNetwork_1,hacker,PolyNetwork Exploiter 1,,
+0xa87fb85a93ca072cd4e5f0d4f178bc831df8a00b,PolyNetwork_2,hacker,PolyNetwork Exploiter 2,,
+0xf9e3d08196f76f5078882d98941b71c0884bea52,Popsicle_Swap,hacker,Popsicle Swap Hacker,,
+0x3a9d90ed069021057d9d11e78f142f2c4267934a,Popsicle_Swap_(_Deployer),hacker,Popsicle Swap Hacker (Contract Deployer),,
+0x3b9aca000c0a8f7b2f9b8e0c6e5f4c3b2a1d0e9f,Prisma_Finance_2024,hacker,Prisma Finance Access Control Exploit Exploiter,2024.0,11.6
+0x1d5a56402425c1099497c1ad715a6b56aaccb72b,Punk_Protocol,hacker,Punk Protocol Exploiter,,
+0xd01ae1a708614948b2b5e0b7ab5be6afa01325c7,Qubit_Finance_2022,hacker,Qubit Bridge Exploit Exploiter,2022.0,80.0
+0x844f03375f7da2292da550aebfd52dff2cc6ad75,RUNE_Token,hacker,RUNE Token Exploiter,,
+0x826551890dc65655a0aceca109ab11abdbd7a07b,Radiant_Capital_2024,hacker,Radiant Capital Flash Loan Attack Exploiter,2024.0,4.5
+0x8a7c6d5e4f3b2c1a0d9e8f7c6b5a4d3e2f1c0b9a,Radiant_Capital_October_2024,hacker,Radiant Capital Multi-Sig Compromise Exploiter,2024.0,50.0
+0xcb36b1ee0af68dce5578a487ff2da81282512233,Rari_Capital,hacker,Rari Capital Exploiter,,
+0x6162759edad730152f0df8115c698a42e666157f,Rari_Capital_Fei_2022,hacker,Rari Capital Fuse Pool Exploit Exploiter,2022.0,80.0
+0x098b716b8aaf21512996dc57eb0615e2383e2f96,Ronin_Network_2022,hacker,Ronin Bridge Exploit Exploiter,2022.0,625.0
+0x4e59b44847b379578588920ca78fbf26c0b4956c,Ronin_Network_2022,hacker,Ronin Bridge Exploit Exploiter,2022.0,625.0
+0x13f6f084c9f4e7f5f3e8c3b9e7c6a5d9f8e7c6d5,Saddle_Finance_2022,hacker,Saddle Finance Exploit Exploiter,2022.0,10.0
+0xa8189407a37001260975b9da61a81c3bd9f55908,SashimiSwap,hacker,SashimiSwap Exploiter,,
+0x562331d30b14310870e29ead7a506c897e1d1657,SaturnbeamFi_Rug_Pull,hacker,SaturnbeamFi Rug Pull,,
+0x9c8e7d6f5a4b3c2e1d0f9c8e7b6a5d4c3e2f1b0a,Seneca_Protocol_2024,hacker,Seneca Protocol Exploit Exploiter,2024.0,6.4
+0x4c3d2e1f0a9c8b7e6d5a4f3e2c1b0d9e8a7c6b5f,Shido_2024,hacker,Shido Token Sale Exploit Exploiter,2024.0,3.3
+0x07ba7e8947f8fb4d33f3c7e25c2cb35b858f02eb,Siren_Protocol_1,hacker,Siren Protocol Exploiter 1,,
+0xfac4088bba1fa090fd3f1f52fd691a45c30ac053,Siren_Protocol_2,hacker,Siren Protocol Exploiter 2,,
+0xf834efe5b959e52e3b78cb28c4bc501b52ce41da,Siren_Protocol_3,hacker,Siren Protocol Exploiter 3,,
+0x99da8fb52f74b7a3e38d9c75c634f6386f1649c7,Siren_Protocol_4,hacker,Siren Protocol Exploiter 4,,
+0xcf267ea3f1ebae3c29fea0a3253f94f3122c2199,SpankChain,hacker,SpankChain Hacker,,
+0x3f3a6b6c1c6b5e4c3d2f1e0c9d8c7e6a5b4c3d2e,Stake_com_2023,hacker,Stake.com Hot Wallet Hack Exploiter,2023.0,41.0
+0x8c1944fac705ef172f21f905b5523ae260f76d62,THORChain,hacker,THORChain Exploiter,,
+0x4a33862042d004d3fc45e284e1aafa05b48e3c9c,THORChain_-,hacker,THORChain Exploiter - Contract,,
+0x4b713980d60b4994e0aa298a66805ec0d35ebc5a,THORChain_1,hacker,THORChain Exploiter 1,,
+0x3a196410a0f5facd08fd7880a4b8551cd085c031,THORChain_2,hacker,THORChain Exploiter 2,,
+0x7b6c5d4e3a2f1c0b9d8e7a6c5f4d3e2b1a0c9f8e,Unizen_2024,hacker,Unizen Smart Contract Exploit Exploiter,2024.0,2.1
+0xa09871aeadf4994ca12f5c0b6056bbd1d343c029,Upbit_1,hacker,Upbit Hacker 1,,
+0xc61429117038a1f13881dd7410b80771f28e06ec,Uranium_Finance,hacker,Uranium Finance Hacker,,
+0xeeee458c3a5eaafcfd68681d405fb55ef80595ba,Vee_Finance,hacker,Vee Finance Exploiter,,
+0xa3f447feb0b2bddc50a44ccd6f412a5f98619264,VesperFi_Rari_Fuse_Pool,hacker,VesperFi Rari Fuse Pool Exploiter,,
+0x6e6dab47fed8cc3dd141959dd057f73d12146ba4,Vesper_Finance_VUSD,hacker,Vesper Finance VUSD Exploiter,,
+0x8efab89b497b887cdaa2fb08ff71e4b3827774b2,Visor_Finance,hacker,Visor Finance Exploiter,,
+0x48ad05a3b73c9e7fac5918857687d6a11d2c73b1,Vulcan_Forged,hacker,Vulcan Forged Hacker,,
+0xe3cd90be37a79d9da86b5e14e2f6042cd0e53b66,Vulcan_Forged_2,hacker,Vulcan Forged Hacker 2,,
+0xebc6bd6ac2c9ad4adf4ba57e9f709b8b9cf03c40,Warp.Finance,hacker,Warp.Finance Hacker,,
+0x886358f9296de461d12e791bc9ef6f5a03410c64,Wault_Finance,hacker,Wault Finance Exploiter,,
+0x27fd43babfbe83a81d14665b1a6fb8030a60c9b4,WazirX_2024,hacker,WazirX Multi-Sig Wallet Compromise Exploiter,2024.0,235.0
+0x35ffd6e268610e764ff6944d07760d0efe5e40e5,WazirX_2024,hacker,WazirX Multi-Sig Wallet Compromise Exploiter,2024.0,235.0
+0x0248f752802ed2cd2b4e2e1a47f0eba47a5bc85e,Wintermute_2022,hacker,Wintermute Hot Wallet Compromise Exploiter,2022.0,160.0
+0x629e7da20197a5429d30da36e77d06cdf796b71a,Wormhole_2022,hacker,Wormhole Bridge Hack Exploiter,2022.0,326.0
+0x14ec0cd2acee4ce37260b925f74648127a889a28,Yearn_(yDai),hacker,Yearn (yDai) Exploiter,,
+0x16af29b7efbf019ef30aae9023a5140c012374a5,Yearn_Finance_2023,hacker,Yearn Finance Misconfiguration Exploit Exploiter,2023.0,11.5
+0x74487eed1e67f4787e8c0570e8d5d168a05254d4,bZx_PrivKey,hacker,bZx PrivKey Exploiter,,
+0x0acc0e5faa09cb1976237c3a9af3d3d4b2f35fa5,bZx_PrivKey_2,hacker,bZx PrivKey Exploiter 2,,
+0x967bb571f0fc9ee79c892abf9f99233aa1737e31,bZx_PrivKey_3,hacker,bZx PrivKey Exploiter 3,,
+0x6551fb9be444987f7482012cbf7ea95a1ee8dd0e,bZx_PrivKey_4,hacker,bZx PrivKey Exploiter 4,,
+0xafad9352eb6bcd085dd68268d353d0ed2571af89,bZx_PrivKey_5,hacker,bZx PrivKey Exploiter 5,,
+0x6abca33faeb7deb1e61220e31054f8d6edacbc81,bZx_PrivKey_6,hacker,bZx PrivKey Exploiter 6,,
+0x07e02088d68229300ae503395c6536f09179dc3e,xToken,hacker,xToken Exploiter,,
+0x70dcf33ca09bd87bb2a301280331406ebd32c8a0,？？？,hacker,？？？,,

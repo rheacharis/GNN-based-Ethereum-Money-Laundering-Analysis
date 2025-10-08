@@ -1,0 +1,3 @@
+incident_name,clean_incident_name,address,label,year,month,amount_stolen,source,description
+Curve_Finance_2023,Curve_Finance_2023,0x6ec21d1868743a44318c3c259a6d4953f9978538,Curve Finance Vyper Exploit Exploiter,2023,7.0,73.0,Post-2021 Research,Curve Finance Vyper Exploit
+Curve_Finance_2023,Curve_Finance_2023,0xa85233c63b9ee964add6f2cffe00fd84eb32338f,Curve Finance Vyper Exploit Exploiter,2023,7.0,73.0,Post-2021 Research,Curve Finance Vyper Exploit

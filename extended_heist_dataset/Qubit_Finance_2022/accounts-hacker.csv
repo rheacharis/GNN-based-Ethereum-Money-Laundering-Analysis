@@ -1,0 +1,2 @@
+incident_name,clean_incident_name,address,label,year,month,amount_stolen,source,description
+Qubit_Finance_2022,Qubit_Finance_2022,0xd01ae1a708614948b2b5e0b7ab5be6afa01325c7,Qubit Bridge Exploit Exploiter,2022,1.0,80.0,Post-2021 Research,Qubit Bridge Exploit

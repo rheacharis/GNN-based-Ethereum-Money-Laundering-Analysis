@@ -1,0 +1,2 @@
+incident_name,clean_incident_name,address,label,year,month,amount_stolen,source,description
+Wormhole_2022,Wormhole_2022,0x629e7da20197a5429d30da36e77d06cdf796b71a,Wormhole Bridge Hack Exploiter,2022,2.0,326.0,Post-2021 Research,Wormhole Bridge Hack

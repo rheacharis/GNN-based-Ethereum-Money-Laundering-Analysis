@@ -1,0 +1,2 @@
+incident_name,clean_incident_name,address,label,year,month,amount_stolen,source,description
+Munchables_2024,Munchables_2024,0x6765e168a17b1d3c52e16cdc4f78da1e1b9b48c1,Munchables Private Key Leak Exploiter,2024,3.0,62.0,Post-2021 Research,Munchables Private Key Leak

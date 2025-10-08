@@ -1,0 +1,2 @@
+incident_name,clean_incident_name,address,label,year,month,amount_stolen,source,description
+Prisma_Finance_2024,Prisma_Finance_2024,0x3b9aca000c0a8f7b2f9b8e0c6e5f4c3b2a1d0e9f,Prisma Finance Access Control Exploit Exploiter,2024,3.0,11.6,Post-2021 Research,Prisma Finance Access Control Exploit

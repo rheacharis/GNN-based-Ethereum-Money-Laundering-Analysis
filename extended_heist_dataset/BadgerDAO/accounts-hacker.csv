@@ -1,0 +1,2 @@
+incident_name,clean_incident_name,address,label,year,month,amount_stolen,source,description
+BadgerDAO,BadgerDAO,0x1fcdb04d0c5364fbd92c73ca8af9baa72c269107,BadgerDAO Exploiter,,,,,

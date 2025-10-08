@@ -1,0 +1,2 @@
+incident_name,clean_incident_name,address,label,year,month,amount_stolen,source,description
+BNB_Bridge_2022,BNB_Bridge_2022,0x489a8756c18c0b8b24ec2a2b9ff3d4d447f79bec,BNB Chain Bridge Exploit Exploiter,2022,10.0,570.0,Post-2021 Research,BNB Chain Bridge Exploit

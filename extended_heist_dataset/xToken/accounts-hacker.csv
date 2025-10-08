@@ -1,0 +1,2 @@
+incident_name,clean_incident_name,address,label,year,month,amount_stolen,source,description
+xToken,xToken,0x07e02088d68229300ae503395c6536f09179dc3e,xToken Exploiter,,,,,

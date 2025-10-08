@@ -1,0 +1,2 @@
+incident_name,clean_incident_name,address,label,year,month,amount_stolen,source,description
+Beanstalk_2022,Beanstalk_2022,0x1c5dcdd006ea78a7e4783f9e6021c32935a10fb4,Beanstalk Governance Attack Exploiter,2022,4.0,182.0,Post-2021 Research,Beanstalk Governance Attack

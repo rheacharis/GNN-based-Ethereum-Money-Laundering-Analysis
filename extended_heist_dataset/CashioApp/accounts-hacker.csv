@@ -1,0 +1,2 @@
+incident_name,clean_incident_name,address,label,year,month,amount_stolen,source,description
+CashioApp,CashioApp,0x86766247ba3405c5f15f06b895294200809e9cfb,CashioApp Exploiter,,,,,
